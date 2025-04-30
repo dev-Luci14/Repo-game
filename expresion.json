@@ -12,7 +12,6 @@
       "nama": "sedih",
       "gambar": [
         "https://cdn.cifumo.xyz/f1/images/0239b2eda073.jpg",
-       // "https://example.com/images/sedih2.png"
       ]
     },
     {
@@ -36,7 +35,6 @@
       "nama": "jijik",
       "gambar": [
         "https://cdn.cifumo.xyz/f1/images/3d62e1d18e00.jpg",
-       // "https://example.com/images/jijik2.png"
       ]
     },
     {
@@ -67,14 +65,12 @@
       "nama": "bosan",
       "gambar": [
         "https://cdn.cifumo.xyz/f5/images/ba421d4c7267.jpg",
-       // "https://example.com/images/bosan2.png"
       ]
     },
     {
       "nama": "lelah",
       "gambar": [
         "https://cdn.cifumo.xyz/f5/images/ba421d4c7267.jpg",
-       // "https://example.com/images/lelah2.png"
       ]
     }
   ]
