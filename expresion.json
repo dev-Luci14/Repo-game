@@ -1,0 +1,81 @@
+{
+  "ekspresi": [
+    {
+      "nama": "bahagia",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f8/images/08aecc466662.jpg",
+        "https://cdn.cifumo.xyz/f2/images/779521e33bb4.jpg",
+        "https://cdn.cifumo.xyz/f1/images/06cb1122121b.jpg"
+      ]
+    },
+    {
+      "nama": "sedih",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f1/images/0239b2eda073.jpg",
+       // "https://example.com/images/sedih2.png"
+      ]
+    },
+    {
+      "nama": "marah",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f7/images/88b667f6721a.jpg",
+        "https://cdn.cifumo.xyz/f9/images/7106356a9971.jpg",
+        "https://cdn.cifumo.xyz/f1/images/eab7ebedd5b2.jpg",
+        "https://cdn.cifumo.xyz/f4/images/6c2e26fbf473.jpg",
+        
+      ]
+    },
+    {
+      "nama": "takut",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f3/images/5716e519fb33.jpg",
+        "https://cdn.cifumo.xyz/f9/images/3feeb74affc9.jpg"
+      ]
+    },
+    {
+      "nama": "jijik",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f1/images/3d62e1d18e00.jpg",
+       // "https://example.com/images/jijik2.png"
+      ]
+    },
+    {
+      "nama": "terkejut",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f6/images/a6ec3b5d9a33.jpg",
+        "https://cdn.cifumo.xyz/f10/images/b6494e378e29.jpg"
+      ]
+    },
+    {
+      "nama": "malu",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f10/images/3384be10a691.jpg",
+        "https://cdn.cifumo.xyz/f3/images/328bc4364664.jpg",
+        "https://cdn.cifumo.xyz/f5/images/6e76d5f4b595.jpg"
+      ]
+    },
+    {
+      "nama": "bingung",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f10/images/2891755936d3.jpg",
+        "https://cdn.cifumo.xyz/f2/images/bfc1c6034eaf.jpg",
+        "https://cdn.cifumo.xyz/f4/images/d05554c5ed8a.jpg",
+        "https://cdn.cifumo.xyz/f1/images/31f17c271b37.jpg",
+      ]
+    },
+    {
+      "nama": "bosan",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f5/images/ba421d4c7267.jpg",
+       // "https://example.com/images/bosan2.png"
+      ]
+    },
+    {
+      "nama": "lelah",
+      "gambar": [
+        "https://cdn.cifumo.xyz/f5/images/ba421d4c7267.jpg",
+       // "https://example.com/images/lelah2.png"
+      ]
+    }
+  ]
+}
