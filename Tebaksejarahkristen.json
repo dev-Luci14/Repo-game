@@ -1,0 +1,47 @@
+[
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bethlehem_skyline%2C_West_Bank.jpg",
+        "jawaban": "Betlehem",
+        "deskripsi": "Kota kecil di Yudea ini dikenal sebagai tempat kelahiran Yesus. Coba tebak nama kota ini..."
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jerusalem_infobox_image.JPG",
+        "jawaban": "Yerusalem",
+        "deskripsi": "Kota suci ini adalah pusat ibadah Israel dan tempat Bait Suci berdiri. Kota apakah ini?"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Habsora_from_selezian.jpg",
+        "jawaban": "Nazaret",
+        "deskripsi": "Yesus tumbuh besar di kota Galilea ini. Nathanael pernah berkata 'Apakah sesuatu yang baik datang dari Nazaret?'"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kafarnaum_BW_23.jpg",
+        "jawaban": "Kapernaum",
+        "deskripsi": "Kota tepi danau Galilea ini menjadi markas pelayanan Yesus. Disebut 'kota-Nya sendiri' dalam Matius 9:1"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sodom_and_Gomorrah_afire%2C_by_Jacob_Jacobsz._de_Wet_d._J.%2C_probably_K%C3%B6ln%2C_c._1680%2C_oil_on_canvas_-_Hessisches_Landesmuseum_Darmstadt_-_Darmstadt%2C_Germany_-_DSC01149.jpg",
+        "jawaban": "Sodom",
+        "deskripsi": "Kota yang dihancurkan bersama Gomora karena kejahatannya. Lot tinggal di sini sebelum kehancurannya"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWW5qYc58fR7gLeyLpZ1_Ad-h1P_7NJ9lAhznoS1Rs7qIsob2HcPBi3I4&s=10",
+        "jawaban": "Ninive",
+        "deskripsi": "Ibu kota Asyur yang bertobat setelah peringatan Yunus. Kota besar yang butuh 3 hari untuk melintasinya"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/960px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg",
+        "jawaban": "Babel",
+        "deskripsi": "Kota dengan menara terkenal yang menyebabkan bahasa manusia dikacaukan. Pusat kerajaan Nebukadnezar"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqssYEonYmUDVPtPfwdsVP0ub2XtY8VRalMzyj68_BXxP8tJ6ocf4r4KM&s=10",
+        "jawaban": "Efesus",
+        "deskripsi": "Kota di Asia Kecil dengan kuil Artemis yang megah. Paulus menulis surat kepada jemaat di kota ini"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Korinth_BW_2017-10-10_10-55-28.jpg/1200px-Korinth_BW_2017-10-10_10-55-28.jpg",
+        "jawaban": "Korintus",
+        "deskripsi": "Kota pelabuhan Yunani yang makmur tetapi bermoral buruk. Paulus mendirikan jemaat di sini"
+    }
+]
