@@ -43,5 +43,55 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Korinth_BW_2017-10-10_10-55-28.jpg/1200px-Korinth_BW_2017-10-10_10-55-28.jpg",
         "jawaban": "Korintus",
         "deskripsi": "Kota pelabuhan Yunani yang makmur tetapi bermoral buruk. Paulus mendirikan jemaat di sini"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0xieqqkiikbqdZhtKbFAPNIHUfxruhXpxA&s",
+        "jawaban": "Martin Luther",
+        "deskripsi": "Tokoh Reformasi ini memakukan 95 dalil di pintu gereja Wittenberg pada tahun 1517"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25B_VNy1ZHR9UY2iL0Ki91SlNQcHwLbDkgw&s",
+        "jawaban": "Hagia Sophia",
+        "deskripsi": "Bangunan ikonik di Konstantinopel ini awalnya adalah gereja Kekaisaran Bizantium sebelum diubah menjadi masjid"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyLzGEH89uBq3Ab0YeoAh8F1xRWT30yRCdU8iL3lYx1_whRlMw-KfSgZYN&s=10",
+        "jawaban": "Vatikan",
+        "deskripsi": "Negara kota ini menjadi pusat Gereja Katolik Roma dan tempat tinggal Paus"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQataEOa9r6RWvDttI3sdwjOcwRqPQPcR5OL7MBSnKRaBaZwrbUjAB9miE&s=10",
+        "jawaban": "Gulungan Laut Mati",
+        "deskripsi": "Naskah kuno yang ditemukan di Qumran ini berisi teks-teks Yahudi kuno termasuk bagian Perjanjian Lama"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECgSNUbOOn4wtt7fpR6LDjZix8HVpmCDb7g&s",
+        "jawaban": "Gereja Makam Kudus",
+        "deskripsi": "Gereja di Yerusalem ini dibangun di lokasi yang diyakini sebagai tempat penyaliban dan kubur Yesus"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_H__uaE_KsqJHexZXFjd_dvhRLy0A-7PVvw&s",
+        "jawaban": "Paulus",
+        "deskripsi": "Rasul yang awalnya menganiaya pengikut Kristus ini kemudian menjadi misionaris utama untuk orang non-Yahudi"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfNNHmbLNzxKHDUTQNmM3mRjDFk03y_CybA&s",
+        "jawaban": "Edict Milano",
+        "deskripsi": "Dekrit tahun 313 M ini mengakhiri penganiayaan terhadap orang Kristen di Kekaisaran Romawi"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
+        "jawaban": "John Wycliffe",
+        "deskripsi": "Teolog abad ke-14 ini menerjemahkan Alkitab ke bahasa Inggris dan menjadi pelopor Reformasi"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/250px-Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+        "jawaban": "Augustinus",
+        "deskripsi": "Bapa Gereja berpengaruh ini menulis 'Pengakuan-Pengakuan' dan 'Kota Allah' pada abad ke-4-5 M"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ingeborg_Psalter_02f_1200_%28cropped%29.jpg",
+        "jawaban": "Pentakosta",
+        "deskripsi": "Peristiwa dalam Kisah Para Rasul 2 ketika Roh Kudus turun atas murid-murid 50 hari setelah Paskah"
     }
 ]
